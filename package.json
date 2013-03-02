@@ -1,0 +1,23 @@
+{
+  "name": "component-toml",
+  "version": "0.0.1",
+  "description": "A plugin to compile TOML to Javascript for the component builder.",
+  "keywords": [
+    "component",
+    "toml"
+  ],
+  "author": "Segment.io <friends@segment.io>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/segmentio/component-toml.git"
+  },
+  "dependencies": {
+    "debug": "~0.7.2",
+    "toml": "~0.4.1"
+  },
+  "devDependencies": {
+    "component-builder": "git://github.com/calvinfo/builder.js.git#conf-race"
+  },
+  "main": "index.js"
+}
