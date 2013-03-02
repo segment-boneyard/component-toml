@@ -1,7 +1,7 @@
 {
   "name": "component-toml",
   "version": "0.0.1",
-  "description": "A plugin to compile TOML to Javascript for the component builder.",
+  "description": "A plugin to compile TOML to Javascript for the Component builder.",
   "keywords": [
     "component",
     "toml"
